@@ -6,7 +6,9 @@
 * <a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on Distributed Systems for Young Bloods</a>.
 * 
 ### Consensus Algorithm
-####Paxos
+
+#### Paxos
+
 #### <a href="http://raftconsensus.github.io/"> Raft </a>
 
 ### Tracing Infrastructure
