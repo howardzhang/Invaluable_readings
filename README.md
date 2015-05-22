@@ -4,7 +4,7 @@
 ### For Beginner
 
 * <a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on Distributed Systems for Young Bloods</a>.
-* 
+* <a href="http://www.spinics.net/lists/ceph-devel/msg16578.html">Paxos VS Raft</a>
 ### Consensus Algorithm
 
 #### Paxos
