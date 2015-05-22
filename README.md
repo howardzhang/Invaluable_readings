@@ -31,7 +31,10 @@
 
 ## Readings on Database Systems
 * <a href="https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f">Why I love databases</a>
+* 
+
 ### Principles
+
 #### CAP(Consistency, Availability, Partition Tolerance)
 * <a href="http://henryr.github.io/cap-faq/">CAP FAQ</a>
 * <a href="https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html?utm_source=dbweekly&utm_medium=email">Please stop calling databases CP or AP</a>
